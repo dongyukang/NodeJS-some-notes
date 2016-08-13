@@ -90,7 +90,7 @@
  ```ssh
  $forever start app.js
  ```
- # INSTALL NODEJS
+# NODEJS INSTALLATION
 
 Automated node.js installers for OS X and Ubuntu
 
