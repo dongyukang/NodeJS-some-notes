@@ -1,5 +1,7 @@
 # NODEJS
 
+[![StyleCI](https://styleci.io/repos/65597505/shield?branch=master)](https://styleci.io/repos/65597505)
+
 * IMPORTANT! Create a package.json very first 
 ```ssh
  $npm init // it will create a package.json file
